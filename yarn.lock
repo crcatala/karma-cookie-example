@@ -1324,6 +1324,11 @@ karma-chrome-launcher@^2.2.0:
     fs-access "^1.0.0"
     which "^1.2.1"
 
+karma-epiphany-launcher@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/karma-epiphany-launcher/-/karma-epiphany-launcher-0.1.0.tgz#3b3216d56d5791a00826da72c2a065616277b470"
+  integrity sha512-pBOC8xR2wKaIavmwiifJ8BKvzJBFO10IorrztWnEEJllpMwhu1LYBpNrIWWm3FJlzS1UICsjbU0jQzI2BkWVYw==
+
 karma-mocha-reporter@^2.2.5:
   version "2.2.5"
   resolved "https://registry.yarnpkg.com/karma-mocha-reporter/-/karma-mocha-reporter-2.2.5.tgz#15120095e8ed819186e47a0b012f3cd741895560"
